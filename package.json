@@ -20,7 +20,7 @@
     "typescript": "^4.9.5"
   },
   "peerDependencies": {
-    "typescript": "^5.0.2"
+    "typescript": "^4.9.5"
   },
   "scripts": {
     "build": "tsc",
